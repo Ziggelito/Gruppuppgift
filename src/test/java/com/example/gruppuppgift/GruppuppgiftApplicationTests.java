@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-//@Test(classes = Calculator.class)
+//@Test(classes = Calculator.class) dinosaur
 class GruppuppgiftApplicationTests {
 
 	private Calculator calculator;
